@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+.wrap{
+	width: 100%;
+	display: flex;
+}
